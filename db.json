@@ -1,4 +1,5 @@
-[
+{
+  "Zodic": [
     {
         "id": "1",
         "name": "Mu",
@@ -112,3 +113,4 @@
         "avatr": "https://i.imgur.com/OFyknev.png"
     }
 ]
+}
